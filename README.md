@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Oleg 👋 👨🏻‍💻
 
-<!--
-**Skydan111/Skydan111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=java,js,git,postgres,docker,react,aws&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Originally a project manager in Ukraine, I am currently based in Germany, immersing myself in Java, JS, Docker, and React to pursue a career as a Software Engineer.
+
+🚀 I'm currently working on a project where friends can compete by predicting football match outcomes and assessing players' performance.
+
+🔍 Eagerly refining acquired skills and exploring new technologies.
+
+💻 Favorite programming languages: Java, JavaScript. Currently diving into the vast possibilities of AWS.
+
+## Contact Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/oleg-skydan)
+
+📧 Email: [olegskidan@yahoo.com](mailto:olegskidan@yahoo.com)
