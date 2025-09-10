@@ -14,4 +14,4 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/oleg-skydan)
 
-📧 Email: [olegskidan@yahoo.com](mailto:olegskidan@yahoo.com)
+📧 Email: [olegskydan@proton.me](mailto:olegskydan@proton.me)
