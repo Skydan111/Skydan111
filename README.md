@@ -15,20 +15,13 @@ Backend-Entwickler mit Hintergrund im Projektmanagement. Schwerpunkt auf robuste
 -----
 
 ## Tech Stack
-
-|Layer                |Technologies       |
-
-|---------------------|-------------------|
-
-|Languages            |Java · C# · Python |
-
-|Databases            |PostgreSQL         |
-
-|Infrastructure       |Docker · Git       |
-
-|Protocols & Messaging|MQTT · HMAC/SHA-256|
-
-|Web                  |HTML · CSS · PHP   |
+| Category              | Stack |
+|-----------------------|-------|
+| **Languages**         | Java · C# · Python |
+| **Databases**         | PostgreSQL |
+| **Infrastructure**    | Docker · Git |
+| **Protocols & Security** | MQTT · HMAC-SHA256 |
+| **Web**               | HTML · CSS · PHP |
 
 -----
 
